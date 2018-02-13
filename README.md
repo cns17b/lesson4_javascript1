@@ -13,8 +13,7 @@ Cole Sheridan
 In this assignment, we learned how to declare variables in JavaScript by using a template to complete an expenses calculator.  We also learned how to use the getElementById method in JavaScript, and how to use this method to change a page when an event (in this case, the press of a button on the HTML page) occurs.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+ https://cns17b.github.io/lesson4_javascript1/.
 
 ### Lessons Learned in the Assignment:
 1. We learned the difference between static and dynamic typefaces (JavaScript uses a dynamic typeface).  In a static typeface, like Java, when you declare a variable, you must assign the variable a single type, and the value(s) of that variable must be of that type.  In a dynamic typeface, like JavaScript, when declaring a variable, you do not need to specify the type, and the type may change through the program, as any value may be stored in the variable.
